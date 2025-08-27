@@ -238,7 +238,7 @@ Created as part of AI/ML Intern Assignment - demonstrating expertise in:
 
 ### 🎉 Demo
 
-**Live Demo**: [Add your deployed link here]
+**Live Demo**: https://trestle-labs-assignments-muqwc5xdmwkad3ymi76vru.streamlit.app/
 
 **Video Walkthrough**: [Add your demo video link here]
 
