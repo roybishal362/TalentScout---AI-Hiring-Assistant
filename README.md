@@ -240,8 +240,7 @@ Created as part of AI/ML Intern Assignment - demonstrating expertise in:
 
 **Live Demo**: https://trestle-labs-assignments-muqwc5xdmwkad3ymi76vru.streamlit.app/
 
-**Video Walkthrough**: [Add your demo video link here]
-
+**Video Walkthrough**: https://www.loom.com/share/ff242241a2ea49b683521c5033fc57a8?sid=6385fc22-4343-46e5-9c50-cf8d7a096b65
 ---
 
 *For questions or support, please contact the development team.*
